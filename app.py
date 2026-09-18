@@ -4811,7 +4811,7 @@ threading.Thread(target=bot_supervisor, daemon=True).start()
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))
     print(f"============================================================")
-    print(f"       ⚡ SERVER GODCLAN V2 • AUTONOMOUS MATRIX ⚡          ")
+    print(f"       ⚡ SINISTERS • AUTONOMOUS MATRIX ⚡          ")
     print(f"               OWNER KEY: SCAR@12345                        ")
     print(f"               RUNNING ON PORT: {port}                      ")
     print(f"============================================================")
